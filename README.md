@@ -39,9 +39,6 @@ passion: Transforming complex technical challenges into business solutions
 
 ---
 
-
----
-
 <div align="center">
 
 ## 📊 GitHub Analytics 📊
@@ -49,12 +46,11 @@ passion: Transforming complex technical challenges into business solutions
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meganweldon&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6ac1&text_color=ffffff&icon_color=00d9ff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganweldon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=ff6ac1&text_color=ffffff&icon_color=00d9ff"/>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meganweldon&background=0d1117&border=ff6ac1&stroke=00d9ff&ring=ff6ac1&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6ac1&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meganweldon&background=0d1117&border=0d1117&stroke=00d9ff&ring=ff6ac1&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6ac1&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 
@@ -93,7 +89,7 @@ class MeganWeldon:
             "Co-Founded successful eCommerce business",
             "Drove digital transformation at Fortune companies",
             "Expert in B2B enterprise technology sales",
-            "Harvard Business School certified leader"
+            "Harvard Business School Specialized in Leadership & Management"
         ]
         
     def solve_enterprise_challenges(self):
@@ -103,9 +99,6 @@ class MeganWeldon:
         return "Creating lasting partnerships with strategic enterprise clients"
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-</div>
 
 ---
 
