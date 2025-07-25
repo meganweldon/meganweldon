@@ -46,7 +46,7 @@ passion: Transforming complex technical challenges into business solutions
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganweldon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=ff6ac1&text_color=ffffff&icon_color=00d9ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganweldon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&border_color=ff6ac1&layout=compact&bg_color=0d1117&title_color=ff6ac1&text_color=ffffff&icon_color=00d9ff"/>
 </p>
 
 <div align="center">
@@ -55,7 +55,7 @@ passion: Transforming complex technical challenges into business solutions
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meganweldon&bg_color=0d1117&color=ff6ac1&line=00d9ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meganweldon&bg_color=0d1117&color=ff6ac1&line=00d9ff&point=ffffff&area=true&hide_border=false&border_color=ff6ac1" />
 </div>
 
 ---
