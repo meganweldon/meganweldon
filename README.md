@@ -50,7 +50,7 @@ passion: Transforming complex technical challenges into business solutions
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meganweldon&background=0d1117&border=0d1117&stroke=00d9ff&ring=ff6ac1&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6ac1&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meganweldon&background=0d1117&border=ff6ac1&stroke=00d9ff&ring=ff6ac1&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6ac1&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 
