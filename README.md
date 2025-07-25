@@ -57,9 +57,6 @@ passion: Transforming complex technical challenges into business solutions
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meganweldon&background=0d1117&border=ff6ac1&stroke=00d9ff&ring=ff6ac1&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6ac1&sideLabels=ffffff&dates=ffffff" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meganweldon&theme=synthwave&no-frame=true&no-bg=false&margin-w=4" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meganweldon&bg_color=0d1117&color=ff6ac1&line=00d9ff&point=ffffff&area=true&hide_border=true" />
@@ -167,9 +164,4 @@ Communication: Slack, Zoom, Teams
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=meganweldon&label=Profile%20Views&color=ff6ac1&style=for-the-badge" />
-</div>
 
