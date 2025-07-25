@@ -55,7 +55,7 @@ passion: Transforming complex technical challenges into business solutions
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meganweldon&bg_color=0d1117&color=ff6ac1&line=00d9ff&point=ffffff&area=true&hide_border=false&border_color=ff6ac1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meganweldon&bg_color=0d1117&color=ff6ac1&line=00d9ff&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
