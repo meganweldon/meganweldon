@@ -22,9 +22,6 @@ specialization: Enterprise Solutions Engineering & Technical Sales
 passion: Transforming complex technical challenges into business solutions
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
-</div>
 
 ---
 
@@ -119,10 +116,6 @@ class MeganWeldon:
 
 ## 🎵 Current Vibes 🎵
 
-</div>
-
-<div align="center">
-  
 [![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 
@@ -140,10 +133,8 @@ class MeganWeldon:
 
 ```yaml
 OS: macOS Sonoma
-Terminal: iTerm2 with Oh My Zsh
+Terminal: Warp with Oh My Zsh
 Editor: VS Code with Synthwave '84 theme
-Browser: Chrome with developer extensions
-Setup: Dual 4K monitors, mechanical keyboard
 Coffee: Always ☕
 Productivity: Notion, Calendly, Loom
 Communication: Slack, Zoom, Teams
