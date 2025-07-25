@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6AC1&background=0D1117&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Megan+Weldon+%F0%9F%92%9C;Senior+Solutions+Engineer+%40+Cortex+%F0%9F%A7%A0;12%2B+Years+in+Enterprise+Tech+%F0%9F%9A%80;Harvard+Business+School+Graduate+%F0%9F%93%9A;Solution+Engineering+%26+Sales+Expert+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6AC1&background=0D1117&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Megan+Weldon+%F0%9F%92%9C;Senior+Solutions+Engineer+%40+Cortex+%F0%9F%A7%A0;12%2B+Years+in+Enterprise+Tech+%F0%9F%9A%80;Harvard+Business+School+Executive+Leadership+%F0%9F%93%9A;Solution+Engineering+%26+Sales+Expert+%E2%9C%A8)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
